@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # SYSUTIL by Alexander Abraham, 
 # a.k.a. "Angel Dollface".
 # Licensed under the MIT license.
